@@ -1,1 +1,2 @@
 This file is my_file
+Second line added to modify the file.
